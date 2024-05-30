@@ -13,6 +13,3 @@ class UzivatelskeRozhrani:
             print(self.mozek.vyber_nahodnou_restauraci())
         elif akce == 3:
             print(self.mozek.vyber_nahodne_jidlo())
-
-u = UzivatelskeRozhrani()
-u.vyber_akci()

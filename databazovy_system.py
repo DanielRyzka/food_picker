@@ -26,7 +26,3 @@ class DatabazovySystem:
         self.conn.close()
 
 
-d = DatabazovySystem()
-# print(d.vrat_vsecny_nabidky())
-# print(d.vyber_restauraci_podle_indexu(2))
-# print(d.vyber_jidlo_dle_zvolene_restaurace(2))
